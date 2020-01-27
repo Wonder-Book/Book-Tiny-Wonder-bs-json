@@ -1,0 +1,13 @@
+{
+  "name": "tiny-wonder-bs-json",
+  "version": "0.0.1",
+  "description": "",
+  "license": "MIT",
+  "main": "",
+  "scripts": {
+    "watch": "bsb -clean-world -make-world -w"
+  },
+  "dependencies": {
+    "bs-platform": "^7.0.1"
+  }
+}
